@@ -2,6 +2,6 @@
 
 Hello World! I'm Yeojin 👋
 
-✊ Entry-level BackEnd Developer <br>
+✊ Entry-level Back-end Developer <br>
 💛 Favorite Tech: Java, Spring Boot, JavaScript, React ...<br>
 📧 yjyoon2107@naver.com<br>
